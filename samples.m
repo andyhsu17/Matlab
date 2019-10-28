@@ -1,0 +1,1 @@
+function samples = song(score)
